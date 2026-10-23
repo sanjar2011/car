@@ -1,0 +1,33 @@
+/* Основной контейнер */
+.content-section {
+  font-family: system-ui, -apple-system, sans-serif;
+  color: #222222;
+  line-height: 1.5;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Главный заголовок (H1) */
+.content-section h1 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+/* Подзаголовки (H2) */
+.content-section h2 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 24px;
+  margin-bottom: 10px;
+}
+
+/* Абзацы текста */
+.content-section p {
+  font-size: 14px;
+  color: #555555;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
